@@ -1,0 +1,4 @@
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\Console_xslt_source_destination\Console_xslt_source_destination\bin\Release\Console_xslt_source_destination.exe
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\Console_xslt_source_destination\Console_xslt_source_destination\bin\Release\Console_xslt_source_destination.pdb
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\Console_xslt_source_destination\Console_xslt_source_destination\obj\Release\Console_xslt_source_destination.exe
+D:\felix_user\documents\Visual Studio 2013\Projects\_4_AZURIL\_2_c_sharp\Console_xslt_source_destination\Console_xslt_source_destination\obj\Release\Console_xslt_source_destination.pdb
